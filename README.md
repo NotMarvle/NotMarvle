@@ -1,11 +1,12 @@
-### Hi there, I'm notmarvle 👋
+# Hi there, I'm notmarvle 👋
 
-#### 🌱 I’m currently learning:
-- Python
-- Web development
+## About Me
+- 🌱 I'm currently learning Python and Web Development
+- 🔭 I'm interested in full-stack web development, data analysis, and machine learning
+- 📫 How to reach me: Discord (i;#8279)
 
-#### 📈 GitHub Stats:
-<img  align="left" src="https://github-readme-stats.vercel.app/api?username=NotMarvle&count_private=true&show_icons=true&theme=tokyonight" width="47%"/>
+## GitHub Stats
+![notmarvle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=notmarvle&show_icons=true&theme=tokyonight&count_private=true)
 
-#### 🔝 Top Languages:
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notmarvle&hide=php&theme=tokyonight" width="47%"/>
+## Top Languages
+![notmarvle's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notmarvle&layout=compact&hide=php&theme=tokyonight)
