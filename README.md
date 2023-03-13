@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌱 I'm currently learning Python and Web Development
-- 🔭 I'm interested in full-stack web development, data analysis, and machine learning
+- 🔭 I'm interested in go & C++
 - 📫 How to reach me: Discord (i;#8279)
 
 ## GitHub Stats
